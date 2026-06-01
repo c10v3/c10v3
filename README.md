@@ -102,11 +102,13 @@
 ## 🏅 CTF Achievements
 
 - 🥇 [VSL2026] — Hạng 6 / Năm 2026
-- 🥈 [Tên giải CTF 2] — Hạng X / Năm 20XX
+- 🥈 [PicoCTF2026] — Hạng 50 / Năm 2026
 - 🎖️ Thành viên team CTF: **[V-Tetra]**
 - 🔗 CTFtime profile: [link]
 
 ---
+## Writeup CTF
+| 🏆 picoCTF 2026 | offset-cycleV2 (400pts) | [Writeup →](https://github.com/c10v3/ctf-writeups/tree/main/picoCTF-2026/pwn/offset-cycleV2) |
 
 ## 📚 Currently Learning
 
